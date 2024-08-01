@@ -1,7 +1,7 @@
 # PRODIGY_ML_01
 
 ## House Price Prediction using Linear Regression
-### Project Overview\
+### Project Overview
 
 #### This project aims to predict house prices using a linear regression model. The model uses features such as the number of bathrooms, bedrooms, and the total square footage of the house.
 
